@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "鉄の処女と夢見がちなお姫さま",
+  "base_artist": "じょるじん",
+  "createdAt": "2025-12-28T05:35:34.966563Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鉄の処女と夢見がちなお姫さま",
+      "artist": "じょるじん",
+      "has_synced": false,
+      "path": "select/pl_01_鉄の処女と夢見がちなお姫さま_じょるじん.txt"
+    }
+  ]
+}
